@@ -13,7 +13,7 @@
         },
         {
             "id": 2,
-            "name": "priya",
+            "name": "Priya",
             "friends": [
                 1,
                 4
@@ -45,10 +45,6 @@
         {
             "id": 103,
             "name": "AI & ML Community"
-        },
-        {
-            "id": 104,
-            "name": "Web Dev Hub"
         },
         {
             "id": 104,
