@@ -1,0 +1,16 @@
+ID,Name,Age,Joining Date,Department,Salary,Is Permanent,Rating
+1,Aarav,56,2024-08-12,HR,84962.32,True,1.8
+2,Vivaan,46,2023-08-25,Marketing,43977.16,False,3.3
+3,Aditya,32,2022-02-08,HR,65996.41,True,1.1
+4,Dhruv,25,2020-12-09,HR,71469.02,False,4.4
+5,Reyansh,38,2024-02-24,Finance,33251.53,True,2.8
+6,Krishna,56,2023-12-08,Finance,72528.14,True,2.6
+7,Arjun,36,2022-03-16,Finance,41936.69,False,4.7
+8,Kabir,40,2021-01-20,IT,34553.61,True,3.9
+9,Nikhil,28,2023-04-30,Marketing,96421.99,False,2.3
+10,Ishaan,28,2022-08-13,Marketing,97594.24,False,3.3
+11,Pranav,41,2020-10-03,Marketing,86587.81,False,3.1
+12,Raghav,53,2023-03-30,Marketing,51322.96,False,4.8
+13,Samar,57,2021-04-04,Finance,36837.05,False,4.4
+14,Ayaan,41,2023-08-30,IT,77896.31,False,4.0
+15,Dev,20,2020-01-22,IT,60810.67,False,3.2
