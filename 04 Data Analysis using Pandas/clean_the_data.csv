@@ -1,0 +1,16 @@
+ID,Name,Age,Gender,City,Salary,Department,Join Date,Status
+101,John Doe,28.0,M,New York,60000.0,HR,2018-05-10,Active
+102,Jane Smith,34.0,F,Los Angeles,,IT,2017-08-15,Inactive
+103,Emily Davis,,F,,72000.0,Finance,,Active
+104,,45.0,M,Chicago,80000.0,HR,2020-11-20,Active
+105,Michael Brown,29.0,M,Houston,50000.0,Finance,2019-07-30,
+101,John Doe,28.0,M,New York,60000.0,HR,2018-05-10,Active
+106,Sarah Johnson,31.0,F,Phoenix,75000.0,,2021-03-15,Inactive
+107,David Wilson,,,San Diego,62000.0,IT,2018-12-01,Active
+108,,22.0,M,Dallas,,HR,2019-05-22,Inactive
+109,Emma Garcia,26.0,F,,70000.0,Finance,2017-10-05,
+110,Liam Martinez,33.0,M,San Jose,68000.0,IT,2016-04-14,Active
+111,Olivia Lee,,F,Austin,73000.0,,,Inactive
+112,Sophia Clark,27.0,,Jacksonville,54000.0,Finance,2022-01-10,Active
+113,William King,32.0,M,San Francisco,,HR,2018-07-19,Inactive
+114,,30.0,F,Columbus,66000.0,IT,2019-09-23,Active
